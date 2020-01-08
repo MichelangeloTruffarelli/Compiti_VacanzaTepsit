@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compiti_vacanze", "compiti_vacanze\compiti_vacanze.csproj", "{5145BEA9-6CFA-4570-9F86-609044FBF39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5145BEA9-6CFA-4570-9F86-609044FBF39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5145BEA9-6CFA-4570-9F86-609044FBF39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5145BEA9-6CFA-4570-9F86-609044FBF39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5145BEA9-6CFA-4570-9F86-609044FBF39F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EA1B65-8214-46D9-AA03-08BAC5816D4D}
+	EndGlobalSection
+EndGlobal
